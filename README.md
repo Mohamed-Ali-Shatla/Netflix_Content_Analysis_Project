@@ -78,7 +78,7 @@ This project performs a complete data-analysis workflow on the Netflix Movies & 
 ## 📁 Repository Structure
 
 ```
-netflix-analysis/
+Netflix_Content_Analysis_Project/
 ├── Netflix_Analysis.ipynb      # Main analysis notebook
 ├── netflix_titles.csv          # Raw dataset (download from Kaggle)
 ├── README.md                   # This file
