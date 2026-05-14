@@ -97,7 +97,13 @@ netflix-analysis/
 
 ## 📷 Screenshots
 
-
+<p align="center">
+  <img src="1.png" width="700"/>
+  <img src="2.png" width="700"/>
+  <img src="3.png" width="700"/>
+  <img src="4.png" width="700"/>
+  <img src="5.png" width="700"/>
+</p>
 ---
 
 **Submitted to:** Assoc.Prof. Hanaa ZainEldin
